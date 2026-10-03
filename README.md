@@ -17,7 +17,7 @@ I'm a Computer Science Engineering student passionate about building projects, s
 - 🏆 Winner of Code Clash conducted by the Self Development Club
 - 🥈 Secured 2nd Prize in Neural Nexus
 - 🚀 Ideathon finalist and presenter
-- 💼 Completed a one-month internship at CopterCode, working on an Internship Management System
+- 💼 Completed a one-month internship at CopterCode, worked on an Internship Management System
 - 🤖 Exploring AI/ML through projects such as VoiceShield – AI-Powered Real-Time Voice Cloning Detection and Prevention
 - 📚 Always looking for opportunities to learn, build and improve
 
@@ -36,7 +36,6 @@ I'm a Computer Science Engineering student passionate about building projects, s
 - CSS
 - JavaScript
 - React
-- Vite
 - Tailwind CSS
 
 **Core Concepts**
@@ -51,10 +50,7 @@ I'm a Computer Science Engineering student passionate about building projects, s
 
 - Git & GitHub
 - VS Code
-- SolidWorks
-- Arduino
 - React
-- FastAPI
 - PyTorch
 - PostgreSQL / Supabase
 
@@ -67,8 +63,6 @@ I'm a Computer Science Engineering student passionate about building projects, s
 - 💡 Building practical software projects
 - 🤖 Exploring AI/ML and voice deepfake detection
 - ☕ Improving my Java and Python programming
-- 🏗️ Learning by building real-world applications
-- 🚀 Participating in coding events, ideathons and technical activities
 
 ---
 
@@ -79,9 +73,7 @@ I'm a Computer Science Engineering student passionate about building projects, s
 - 🏅 Finalist & Presenter – Institutional Ideathon
 - 💻 Completed 100-Day LeetCode Challenge
 - 💼 Completed One-Month Internship at CopterCode
-- 🤖 Worked on an Internship Management System during internship
-- 🌐 Built multiple frontend and responsive web projects
-- 🧠 Participated in technical quizzes, seminars, workshops and coding activities
+- 🌐 Participated in Paper Presentation at KPRIET
 
 ---
 
